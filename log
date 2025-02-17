@@ -1,0 +1,17 @@
+ESTIMATE of time to complete assignment 15 hours
+
+Date    Time Started   Time Spent    Work completed
+-----   ------------   ----------    --------------
+9/07      2:00pm         4:00        Watched the Pset 1 walkthrough by Harry and read the problem.
+9/08      4:00pm         2:00        Got help with developing the state machine for the question in office hours.
+9/09      8:00pm         4:00        Started coding  as per my state machine.
+9/11      8:00pm         2:00        Finished translating my state machine to code. Got help from office hours to get it to print for purposes of debugging.
+9/12      8:00pm         2:00        Got it to print and it passed all test cases.
+                        ------
+                        14:00       TOTAL time spent
+
+I did the assignment by myslef with the help of CPSC 223 staff in office hours.
+
+DISCUSSION
+
+One of the major challenges I experienced while doing the assignment was handling the different states. It required careful attention so that my states transition as required in order to do what the problem requires. I also had to learn to use buffers to store the tag names,attribute names and their values because they were necessary to ensure I am looking at valid tags. After I was done, I realised I needed to handle cases where there is a comma in the values. I had a bit of trouble writing a replace_commas function that would scan through the value buffers and then replace a comma with "&comma;". Generally, I had a lot of fun doing the pset because it really reminded me a lot of things about the C language. It was indeed satisfying to crack the code way before the deadline. 

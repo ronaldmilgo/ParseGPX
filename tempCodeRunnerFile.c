@@ -1,0 +1,1 @@
+fprintf(stdout, "Character: %c\n", ch);
